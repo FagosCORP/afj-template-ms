@@ -1,0 +1,12 @@
+# tools folder
+.gradle/
+.idea/
+build/
+gradle/
+gradlew
+gradlew.bat
+target_db/
+.DS_Store
+*.log
+out/
+bin/
